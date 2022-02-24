@@ -8,7 +8,7 @@ This project is about controlling any type of LED strip with just the IC ULN2003
 
 ## Development setup
 
-
+No need for modules
 
 ## Meta
 
